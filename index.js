@@ -1,5 +1,5 @@
 let plivo = require('plivo');
-let client = new plivo.Client('MAZTQ5OTC3NDE0ZTQYNW', 'YzVhNjMxOTk5ZjFlYTAyYTQzYWFmMGZjNGFhYzZj');
+let client = new plivo.Client('', '');
 
 var http = require('http');
 var url = require('url') ;
